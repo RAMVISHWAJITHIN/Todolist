@@ -25,7 +25,7 @@ This project focuses on the frontend using React. It demonstrates basic concepts
 
 ## 📸 Preview
 
-![ToDo List Preview](./preview.png) <!-- Replace with actual screenshot path if available -->
+![ToDo List Preview](earnest-begonia-81f60a.netlify.ap) <!-- Replace with actual screenshot path if available -->
 
 ---
 
